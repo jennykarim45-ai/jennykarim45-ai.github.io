@@ -20,8 +20,12 @@ color: #3c3838
 }
 
 .images {
-    display: inline-block;
-    margin-right: 10px;
-    vertical-align: middle;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
 }
+
+.images img {
+    vertical-align: middle;
+}
+
