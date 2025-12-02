@@ -22,7 +22,7 @@ color: #3c3838
 .images {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
 }
 
 .images img {
